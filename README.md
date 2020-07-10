@@ -1,2 +1,3 @@
-![cat](https://i.imgur.com/g4VnfKh.jpg)
+Welcome to my page!
+
 ![pixel](http://tracking-pix.herokuapp.com/gh/pixel.png)
