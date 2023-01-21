@@ -1,3 +1,3 @@
 Welcome to my page!
 
-<img src="wee.svg">
+<img src="hello.svg">
